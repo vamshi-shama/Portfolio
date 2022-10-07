@@ -52,6 +52,7 @@ nav ul li a:hover{
 
 span1{
     font-size: 35px;
+    font-weight: bold;
 }
 img{
     position: absolute;
@@ -81,7 +82,7 @@ h1{
     width: 700px;
     height: 400px;
     font-size: 20px;
-    font-weight: bold;
+    font-style: italic;
     background: #383838;
     color: azure;
     padding: 50px;
@@ -141,8 +142,6 @@ h1{
     top: 80px;
     width: 700px;
     height: 400px;
-    font-size: 20px;
-    font-weight: bold;
     background: #383838;
     color: azure;
     padding: 50px;
@@ -150,6 +149,11 @@ h1{
     line-height: 35px;
     box-shadow: 10px 5px 30px grey;
 } 
+
+.ed{
+    font-size: 20px;
+    font-weight: bold;
+}
 
 #contact{
     height: 100vh;
