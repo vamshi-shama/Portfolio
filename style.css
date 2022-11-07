@@ -136,12 +136,14 @@ h1{
     background: #e1e1e1
 }
 
-.skill{
+.education, .details{
     position: relative;
     left: 5%;
     top: 80px;
     width: 700px;
     height: 400px;
+    font-size: 20px;
+    font-weight: bold;
     background: #383838;
     color: azure;
     padding: 50px;
@@ -160,19 +162,3 @@ h1{
     width: 100%;
     background: #e1e1e1
 }
-
-.details{
-    position: relative;
-    left: 45%;
-    top: 80px;
-    width: 700px;
-    height: 400px;
-    font-size: 20px;
-    font-weight: bold;
-    background: #383838;
-    color: azure;
-    padding: 50px;
-    border-radius: 10px;
-    line-height: 35px;
-    box-shadow: 10px 5px 30px grey;
-} 
